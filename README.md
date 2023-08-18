@@ -4,7 +4,7 @@
 ⚡ **About:**
 
 
-  Electronics & Communication Engineering Undergraduate At Jamia Hamdard, Delhi, India. Interested In Security Analysis, Software Development, Artificial Intelligence & Machine Learning.
+  Systems Engineer at Infosys. 
 
 
 ⚡ **Languages:**
