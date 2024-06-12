@@ -4,7 +4,7 @@
 ⚡ **About:**
 
 
-  Systems Engineer at Infosys. 
+  Back-End Developer  
 
 
 ⚡ **Languages:**
