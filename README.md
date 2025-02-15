@@ -15,9 +15,11 @@
 
 ⚡ **Repos:**
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=chat-room&theme=midnight-purple)](https://github.com/leoshad9/chat-room)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=linux-maintenance&theme=midnight-purple)](https://github.com/leoshad9/linux-maintenance)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=dsa-python&theme=midnight-purple)](https://github.com/leoshad9/dsa-python)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=email-extraction&theme=midnight-purple)](https://github.com/leoshad9/email-extraction)  
 
 
 ⚡ **Stats:**
