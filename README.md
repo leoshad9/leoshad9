@@ -17,7 +17,6 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=linux-maintenance&theme=midnight-purple)](https://github.com/leoshad9/linux-maintenance)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=num-guess-game&theme=midnight-purple)](https://github.com/leoshad9/num-guess-game)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=leoshad9&repo=dsa-python&theme=midnight-purple)](https://github.com/leoshad9/dsa-python)
 
 
