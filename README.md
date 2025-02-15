@@ -4,7 +4,7 @@
 ⚡ **About:**
 
 
-  Back-End Developer  
+  Backend Developer  
 
 
 ⚡ **Languages:**
