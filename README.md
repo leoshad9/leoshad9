@@ -1,13 +1,18 @@
-# Mohd Shadman
+<h1>Mohd Shadman</h1>
 
-🔗 [Resume](https://leoshad9.github.io) · 📧 [Leoshad9@gmail.com](mailto:Leoshad9@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/leoshad9)
+🔗 <a href="https://leoshad9.github.io" target="_blank" rel="noopener noreferrer">Resume</a> ·
+📧 <a href="mailto:Leoshad9@gmail.com">Leoshad9@gmail.com</a> ·
+💼 <a href="https://www.linkedin.com/in/leoshad9" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 <p align="left">
-  <a href="https://github.com/leoshad9?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/leoshad9?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add"/>
+  <a href="https://github.com/leoshad9?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img alt="Followers"
+         src="https://custom-icon-badges.demolab.com/github/followers/leoshad9?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add"/>
   </a>
-  <a href="https://github.com/leoshad9?tab=stars">
-    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/leoshad9?color=55960c&style=for-the-badge&logo=star"/>
+
+  <a href="https://github.com/leoshad9?tab=stars" target="_blank" rel="noopener noreferrer">
+    <img alt="Stars"
+         src="https://custom-icon-badges.demolab.com/github/stars/leoshad9?color=55960c&style=for-the-badge&logo=star"/>
   </a>
 </p>
 
