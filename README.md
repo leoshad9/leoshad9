@@ -1,8 +1,5 @@
 <h1>Mohd Shadman</h1>
 
-🔗 <a href="https://leoshad9.github.io" target="_blank" rel="noopener noreferrer">Resume</a> ·
-📧 <a href="mailto:Leoshad9@gmail.com">Leoshad9@gmail.com</a>
-
 <p align="left">
   <a href="https://github.com/leoshad9?tab=followers" target="_blank" rel="noopener noreferrer">
     <img alt="Followers"
