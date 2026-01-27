@@ -27,4 +27,28 @@
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<br/>
+
+<br clear="left"/>
+
+***
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoshad9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoshad9&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+***
+
+### 🚀 Featured Projects
+
+#### [Multithreaded Chat Server](https://github.com/leoshad9/multithreaded-chat-server)
+Production-ready TCP/IP chat server built with Java socket programming. Features concurrent client handling, real-time message broadcasting, and thread-safe operations.
+
+**Tech:** Java • Socket Programming • TCP/IP • Multithreading • Networking
+
+#### [Image Encryption & Decryption Tool](https://github.com/leoshad9/image-encryption-decryption)
+Desktop application for secure image encryption using Python. Features Tkinter GUI, substitution cipher with random key generation, and efficient NumPy-based pixel transformations.
+
+**Tech:** Python • Tkinter • NumPy • Matplotlib • Cryptography
