@@ -73,7 +73,7 @@
 
 ### 🚀 Featured Projects
 
-#### [MedOps — Hospital Operations Platform](https://github.com/leoshad9/medops) · [Live](https://medops.duckdns.org/)
+#### [MedOps: Hospital Operations Platform](https://github.com/leoshad9/medops) · [Live](https://medops.duckdns.org/)
 
 Full-stack healthcare operations platform for secure clinical workflows, appointment management, and automated report summarization.
 
