@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&gradient=8E2DE2:9B51E0&shade=down&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=7&fontsize=24&text=leoshad9&fontColor=ffffff&animation=blink"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=8E2DE2:9B51E0&shade=down&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=20&text=leoshad9&fontColor=ffffff&animation=blink"/>
 
 ## Hey, I'm Mohd Shadman! 👋
 
@@ -124,4 +124,4 @@ Desktop application for reversible image encryption using pixel-level transforma
   <a href="https://github.com/leoshad9"><img src="https://img.shields.io/badge/GitHub-121015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&gradient=8E2DE2:9B51E0&shade=up&vSpace=0&fontFamily=Inter"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&gradient=8E2DE2:9B51E0&shade=up&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=20&text=leoshad9&fontColor=ffffff&animation=blink"/>
