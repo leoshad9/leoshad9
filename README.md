@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=8E2DE2:9B51E0&shade=down&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=20&text=leoshad9&fontColor=ffffff&animation=blink"/>
 
-## Hey, I'm Mohd Shadman! 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&center=true&width=700&height=30&lines=Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+TypeScript+%E2%80%A2+PostgreSQL%0AKafka+%E2%80%A2+Redis+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EC2" alt="Tech stack typing SVG"/>
 </p>
