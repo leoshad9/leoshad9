@@ -2,10 +2,6 @@
 
 ## Hey, I'm Mohd Shadman! 👋
 
-**Full-Stack Developer** specializing in **Java (Spring Boot)** and **TypeScript (NestJS/FastAPI)**, building scalable web applications and distributed systems.
-
-**Currently building:** MedOps – a full-stack healthcare operations platform with Kafka event workflows, Redis caching, and AI-assisted PDF summarization.
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&center=true&width=700&height=30&lines=Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+TypeScript+%E2%80%A2+PostgreSQL%0AKafka+%E2%80%A2+Redis+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EC2" alt="Tech stack typing SVG"/>
 </p>
