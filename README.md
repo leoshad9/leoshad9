@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&gradient=6A11CB:9B51E0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=16&text=MOHD+•+SHADMAN&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&center=true&width=700&height=30&lines=Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+TypeScript+%E2%80%A2+PostgreSQL%0AKafka+%E2%80%A2+Redis+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EC2" alt="Tech stack typing SVG"/>
 </p>
 
@@ -20,11 +20,11 @@
 **Frontend**
 
 <p align="left">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
 </p>
 
 **Backend & Frameworks**
@@ -54,7 +54,7 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" title="Jenkins"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions"/>
 </p>
 
 **Observability & Tools**
@@ -71,18 +71,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoshad9&show_icons=true&theme=tokyonight&include_all_commits=true&count_icons=true&hide=issues&rank_icon=github&border_radius=8" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoshad9&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=leoshad9&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20Y"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghp-vm/counter?username=leoshad9&label=Profile+Views&color=475&style=flat&labelColor=7c3aed"/>
-</p>
+<div align="left"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=leoshad9&show_icons=true&theme=tokyonight&hide=issues&border_radius=8" alt="GitHub Stats"/><br><br><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=leoshad9&layout=compact&theme=tokyonight&border_radius=8" alt="Most Used Languages"/></div>
 
 ---
 
@@ -112,8 +101,4 @@ Desktop application for reversible image encryption using pixel-level transforma
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shadman-leoshad9/"><img src="https://img.shields.io/badge/-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shadman@example.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/leoshad9"><img src="https://img.shields.io/badge/-121015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/shadman-leoshad9/"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:leoshad9@gmail.com"><img width="40" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Email"/></a></p>
