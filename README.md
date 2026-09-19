@@ -1,10 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&gradient=6A11CB:9B51E0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=16&text=MOHD+•+SHADMAN&fontColor=ffffff&animation=fadeIn"/>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&center=true&width=700&height=30&lines=Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+TypeScript+%E2%80%A2+PostgreSQL%0AKafka+%E2%80%A2+Redis+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EC2" alt="Tech stack typing SVG"/>
-</p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F97316,100:FBBF24&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=8&text=MOHD SHADMAN&fontColor=ffffff&animation=fadeIn"/>
 
 ### 🛠 Tech Stack
 
@@ -97,8 +91,3 @@ Desktop application for reversible image encryption using pixel-level transforma
 
 **Tech:** Python · Tkinter · NumPy · Matplotlib
 
----
-
-### 📫 Let's Connect
-
-<p align="left"><a href="https://www.linkedin.com/in/shadman-leoshad9/"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:leoshad9@gmail.com"><img width="40" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Email"/></a></p>
