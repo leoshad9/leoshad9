@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=8E2DE2:9B51E0&shade=down&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=20&text=MOHD+SHADMAN&fontColor=ffffff&animation=blink"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=8E2DE2:9B51E0&shade=down&vSpace=0&fontFamily=Inter&fontAlign=50&fontAlignY=40&fontsize=16&text=MOHD+SHADMAN&fontColor=ffffff&animation=blink"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&center=true&width=700&height=30&lines=Java+21+%E2%80%A2+Spring+Boot+%E2%80%A2+React+TypeScript+%E2%80%A2+PostgreSQL%0AKafka+%E2%80%A2+Redis+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EC2" alt="Tech stack typing SVG"/>
@@ -113,7 +113,7 @@ Desktop application for reversible image encryption using pixel-level transforma
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shadman-leoshad9/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shadman@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/leoshad9"><img src="https://img.shields.io/badge/GitHub-121015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/shadman-leoshad9/"><img src="https://img.shields.io/badge/-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shadman@example.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/leoshad9"><img src="https://img.shields.io/badge/-121015?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
