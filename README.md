@@ -83,7 +83,7 @@ Full-stack healthcare operations platform for secure clinical workflows, appoint
 
 Built as a modular monolith with **JWT authentication, RBAC, Kafka event workflows, Redis caching, Resilience4j fault tolerance**, and a **FastAPI microservice** for AI-assisted clinical PDF summarization.
 
-**Tech:** Java 21 · Spring Boot · React · PostgreSQL · Redis · Kafka · FastAPI · Docker · AWS EC2 · GitHub Actions
+**Tech:** Java 21 · Spring Boot · React · PostgreSQL · Redis · Kafka · FastAPI · Docker · AWS · GitHub Actions
 
 #### [Multithreaded Chat Server](https://github.com/leoshad9/multithreaded-chat-server)
 
